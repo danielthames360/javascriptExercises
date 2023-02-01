@@ -91,7 +91,7 @@ body {
   font-size: 2.8rem;
   font-weight: 900;
 
-  box-shadow: 0 0.3rem rgb(178, 164, 158);
+  box-shadow: 0 0.35rem rgb(178, 164, 158);
 }
 
 .buttons__item--width {
@@ -105,10 +105,10 @@ body {
   color: #ffffff;
   background-color: var(--colorBackgroundButton);
   font-size: 1.7rem;
-  box-shadow: 0 0.3rem var(--colorBackgroundButton);
+  box-shadow: 0 0.35rem hsl(224, 21%, 50%, 0.5);
 }
 
 .buttons__item--red {
   background-color: var(--colorRed);
-  box-shadow: 0 0.3rem var(--colorRed);
+  box-shadow: 0 0.35rem rgb(209, 63, 48, 0.5);
 }
